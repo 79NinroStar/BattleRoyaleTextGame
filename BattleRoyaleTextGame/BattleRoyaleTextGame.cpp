@@ -50,7 +50,7 @@ struct Enemy
 	bool IsDead = false;
 	std::string name;
 };
-
+//test
 void ResetText()
 {
   std::cout << "\033[0m";
